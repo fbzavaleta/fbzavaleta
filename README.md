@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fbzavaleta
 - 👀 I’m interested in Embedded system and Data Science
-- 🌱 I’m currently learning Machine Learning apply on microcontrollers, Computer vision and Linux
-- 💞️ I’m looking to collaborate on IoT projects, fimrware and smart apps
+- 🌱 I’m currently learning Machine Learning applied to microcontrollers and  Computer vision.
+- 💞️ I’m looking to collaborate on IoT projects, fimrware and Data & Analytics.
 - 📫 How to reach me benjamin.zavaleta@grieletlabs.com
 
 <!---
