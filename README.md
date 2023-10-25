@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @fbzavaleta
-- 👀 I’m interested in Embedded system, IoT and Data Science
-- 🌱 I’m currently working with IoT cloud architecturing and firmware development.
-- 💞️ I’m looking to collaborate on IoT projects, fimrware and Data & Analytics.
-- 📫 How to reach me benjamin.zavaleta@grieletlabs.com
+# [Benjamin Zavaleta]
 
-<!---
-fbzavaleta/fbzavaleta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Embedded Systems Engineer | IoT engineer | Data Scientist | Educator 📚
+
+## About Me
+
+I'm a passionate and experienced engineer with over 8 years of hands-on experience in the world of embedded systems, IoT, and data science. My journey has taken me from the depths of real-time systems to the fascinating realm of neuromorphic computing.
+
+🎓 **Education:** Post graduation Degree in [IoT] from USP(https://pt.wikipedia.org/wiki/Universidade_de_S%C3%A3o_Paulo)  
+🏢 **Professional Experience:** [@Goclever @Nearsure, Lead Iot Engineer & sr. Data engineer] 
+👨‍🏫 **Academic Background:** Professor in Real-Time Systems and Neuromorphic Computing
+
+## What I Do
+
+- 🔌 I specialize in embedded systems design, bringing intelligence to connected devices.
+- 🌐 IoT solutions for a smarter, more connected world.
+- 📊 Data science and engineering for data-driven robust decision-making systems.
+
+## Projects
+
+Here are some of my notable projects:
+
+- 🚗 [Micro](https://github.com/fbzavaleta/api-device-gateway): Real time navigation system.
+- 🔌 [Project Title 2](https://github.com/fbzavaleta/TM4C123G-Linux-Toolchain): Linux toolchain for 32 bit ARM microcontrollers.
+
+## Publications
+
+I have also contributed to the academic and research community with publications in embedded real-time systems and neuromorphic computing:
+
+- 📚 [Micronucleus](https://www.linkedin.com/pulse/micronucleus-bootloader-para-mcus-avr-attiny-zavaleta-castro/?trackingId=kxvKyQctRqG%2BrlVTv9UWLA%3D%3D): Bootloader integration with avr ATtiny microcontrollers.
+
+## Connect with Me
+
+Feel free to connect with me on LinkedIn, Twitter, or through email:
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/benjaminzavaleta/)
+- Email: [your.email@example.com](mailto:benjamin.zavaleta@grieletlabs.com)
+
+## Get in Touch
+
+I'm always open to exciting new projects, collaborations, or just a friendly chat about technology. Don't hesitate to reach out!
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=fbzavaleta.fbzavaleta)
+
+
+
