@@ -6,7 +6,7 @@
 
 I'm a passionate and experienced engineer with over 8 years of hands-on experience in the world of embedded systems, IoT, and data science. My journey has taken me from the depths of real-time systems to the fascinating realm of neuromorphic computing.
 
-🎓 **Education:** Post graduation Degree in [IoT] from USP(https://pt.wikipedia.org/wiki/Universidade_de_S%C3%A3o_Paulo)  
+🎓 **Education:** Post graduation Degree in [IoT] from [USP](https://pt.wikipedia.org/wiki/Universidade_de_S%C3%A3o_Paulo)  
 🏢 **Professional Experience:** [@Goclever @Nearsure, Lead Iot Engineer & sr. Data engineer] 
 👨‍🏫 **Academic Background:** Professor in Real-Time Systems and Neuromorphic Computing
 
@@ -20,8 +20,8 @@ I'm a passionate and experienced engineer with over 8 years of hands-on experien
 
 Here are some of my notable projects:
 
-- 🚗 [Micro](https://github.com/fbzavaleta/api-device-gateway): Real time navigation system.
-- 🔌 [Project Title 2](https://github.com/fbzavaleta/TM4C123G-Linux-Toolchain): Linux toolchain for 32 bit ARM microcontrollers.
+- 🚗 [Navigation system](https://github.com/fbzavaleta/api-device-gateway): Real time navigation system.
+- 🔌 [linux ARM toolchain](https://github.com/fbzavaleta/TM4C123G-Linux-Toolchain): Linux toolchain for 32 bit ARM microcontrollers.
 
 ## Publications
 
@@ -33,8 +33,8 @@ I have also contributed to the academic and research community with publications
 
 Feel free to connect with me on LinkedIn, Twitter, or through email:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/benjaminzavaleta/)
-- Email: [your.email@example.com](mailto:benjamin.zavaleta@grieletlabs.com)
+- LinkedIn: [benjaminzavaleta](https://www.linkedin.com/in/benjaminzavaleta/)
+- Email: [benjamin.zavaleta@grieletlabs.com](mailto:benjamin.zavaleta@grieletlabs.com)
 
 ## Get in Touch
 
