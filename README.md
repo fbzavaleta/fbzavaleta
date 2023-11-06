@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate and experienced engineer with over 8 years of hands-on experience in the world of embedded systems, IoT, and data science. My journey has taken me from the depths of real-time systems to the fascinating realm of neuromorphic computing.
+I'm a passionate and experienced engineer with hands-on experience in the world of embedded systems, IoT, and data science. My journey has taken me from the depths of embedded real-time systems to IoT systems and Data Science.
 
 - 🎓 **Education:** Post graduation Degree in IoT from [USP](https://pt.wikipedia.org/wiki/Universidade_de_S%C3%A3o_Paulo)  
 - 🏢 **Professional Experience:** Lead IoT Engineer at @Goclever & sr. Data engineer at @Nearsure.
