@@ -31,7 +31,7 @@ I have also contributed to the academic and research community with publications
 
 ## Connect with Me
 
-Feel free to connect with me on LinkedIn, Twitter, or through email:
+Feel free to connect with me through email:
 
 - Email: [benjamin.zavaleta@grieletlabs.com](mailto:benjamin.zavaleta@grieletlabs.com)
 
