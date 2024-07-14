@@ -7,7 +7,7 @@
 I'm a passionate and experienced engineer with hands-on experience in the world of embedded systems, IoT & data science.
 
 - 🎓 **Education:** Post graduation Degree in IoT from [USP](https://pt.wikipedia.org/wiki/Universidade_de_S%C3%A3o_Paulo)  
-- 🏢 **Professional Experience:** Senior IoT Engineer at @Gapstars & sr. Data engineer at @Nearsure.
+- 🏢 **Professional Experience:** End-To-End IoT Software Engineer at @Pairpoint.
 - 👨‍🏫 **Academic Background:** Professor in Real-Time Systems and Neuromorphic Computing.
 
 ## What I Do
