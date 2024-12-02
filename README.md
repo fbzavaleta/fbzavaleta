@@ -1,6 +1,6 @@
 # (Francis)Benjamin Zavaleta
 
-👨‍💻 Embedded Systems Engineer | IoT engineer | Data Enginner | Professor 📚
+👨‍💻 Embedded Systems Engineer | IoT engineer | Data Engineer | Professor 📚
 
 ## About Me
 
